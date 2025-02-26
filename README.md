@@ -40,7 +40,11 @@ EDA involved exploring the data to answer key questions. I noticed that the serv
 
    
 ### Data Analysis
-I created wonderful visualizations on Power BI. Firstly I checked the number of neighborhoods we have using the count distinct function on Excel and also the number of neighborhood groups available. Then I calculated the number of available accommodations. I did a bar chart to show us which neighborhood group has the highest accommodation. Also to show us the different room types. I looked into the review rate number column. They were ranked from 1 to 5. I noticed that more than 50% of apartments had a 3.0 rating. Also, a line chart to show us the price of apartment listings from the beginning of the construction year to 2022. I looked into the different cancellation policies each room has. The prices of apartment listings in the different neighborhood groups. I removed the house rules column because it had a lot of missing values and I didn't want to add bias to my data.
+- I created wonderful visualizations on Power BI. 
+- Firstly I checked the number of neighborhoods we have using the count distinct function on Excel and also the number of neighborhood groups available. Then I calculated the number of available accommodations. 
+- I did a bar chart to show us which neighborhood group has the highest accommodation. Also to show us the different room types. I looked into the review rate number column. They were ranked from 1 to 5. I noticed that more than 50% of apartments had a 3.0 rating. - - Also, a line chart to show us the price of apartment listings from the beginning of the construction year to 2022. 
+- I looked into the different cancellation policies each room has. The prices of apartment listings in the different neighborhood groups. 
+- I removed the house rules column because it had a lot of missing values and I didn't want to add bias to my data.
 
 ### Findings 
 - Manhattan and Brooklyn had the most accommodations, with Manhattan having higher prices.  
