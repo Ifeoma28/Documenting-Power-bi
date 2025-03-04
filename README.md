@@ -60,8 +60,7 @@ EDA involved exploring the data to answer key questions. I noticed that the serv
 - Apartments in Brooklyn need more host listings and availability 365.
 - This would help to boost revenue since guests already gives a lot of reviews showing they enjoy their stay there. So increased visibility and instant bookable would increase revenue.
 - Apartments in Bronx,Staten Island and Queens need to reduce their service fees, because even with the low prices, guests dont like to stay there. Although this can be attributed  to the low availability 365 and host listings.
-- They may be other factors affecting the low number of reviews monthly and while the property is rarely available like poor maintenance and hospitality rate.
-- Most guests dont like to use property that has been rarely used and has a low number of reviews even with the low price.
+- Most guests don't like to use property that has been rarely used and This is one of the  factors affecting the low number of reviews monthly and while the property is rarely available like poor maintenance and hospitality rate.
 - Apartments in Manhattan should strive for quality experience for their guests to boost their reviews too.
 
 ### Limitations
