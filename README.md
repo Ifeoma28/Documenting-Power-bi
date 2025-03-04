@@ -65,7 +65,7 @@ EDA involved exploring the data to answer key questions. I noticed that the serv
 - Apartments in Manhattan should strive for quality experience for their guests to boost their reviews too.
 
 ### Limitations
-- This data dosent talk about the house rules of apartment listings. I removed the house rules column.
+- This data dosent talk about the house rules of apartment listings because i removed the house rules column.
 - it dosent talk about the maintenace rate of the apartment listings.
 - it is strictly about apartment listings from 2000 construction year to 2022 construction year.
 
